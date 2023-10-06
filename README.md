@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/subhash-ajmera-0a6221212/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.svg" alt="Sohan Maali" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/subhash-ajmera-0a6221212/](https://www.linkedin.com/in/sohan-un-6b3795282)" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-color.svg" alt="Sohan Maali" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sohan_maali1/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-color.svg" alt="sohan_maali1" height="30" width="40" /></a>
 </p>
 
