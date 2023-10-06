@@ -9,7 +9,7 @@
 - 👋 Hi, I’m @Sohan Maali
 - 👀 I’m interested in ...Know New things
 -🌱 I’m currently learning **everything 🤣**
-- 👨‍💻 All of my projects are available at[https://github.com/Sohanmaali](https://github.com/Sohanmaali)
+- 👨‍💻 All of my projects are available at [https://github.com/Sohanmaali](https://github.com/Sohanmaali)
 - 📫 How to reach me sohanmaali4@gmail.com
 - - ⚡ Fun fact **I think I am funny 😂**
 
