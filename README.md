@@ -48,4 +48,4 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=sohanmaali /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Sohanmaali&show_icons=true alt=sohanmaali /> </p>
