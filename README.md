@@ -13,9 +13,9 @@
 <p align="left">
 <!-- <a href="https://codepen.io/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="rahuldkjain" height="30" width="40" /></a> -->
 <!-- <a href="https://dev.to/rahuldkjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahuldkjain" height="30" width="40" /></a> -->
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sohan-un-6b3795282" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sohan maali" height="30" width="40" /></a>
-<a href="https://instagram.com/sohan_maali1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sohan_maali1" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sohanmaali" height="30" width="40" color= "white"/></a>
+<a href="https://www.linkedin.com/in/sohan-un-6b3795282" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Sohan maali" height="30" width="40"  color= "white"/></a>
+<a href="https://instagram.com/sohan_maali1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sohan_maali1" height="30" width="40"  color= "white"/></a>
 </p>
 
 **📕 Latest dev.to posts [@sohanmaali](https://dev.to/sohanmaali)**
