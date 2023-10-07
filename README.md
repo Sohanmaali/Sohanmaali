@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Sohan Maali
 - 👀 I’m interested in ...Know New things
--🌱 I’m currently learning **everything 🤣**
+-🌱 I’m currently learning **i am currently learning full stack web development from infobeans foundation**
 - 👨‍💻 All of my projects are available at [https://github.com/Sohanmaali](https://github.com/Sohanmaali)
 - 📫 How to reach me sohanmaali4@gmail.com
 <!-- ⚡ Fun fact **I think I am funny 😂** -->
 
-### Blogs posts
+<!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -18,7 +18,7 @@
 <a href="https://instagram.com/sohan_maali1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Sohan_maali1" height="30" width="40"  color= "white"/></a>
 </p>
 
-**📕 Latest dev.to posts [@sohanmaali](https://dev.to/sohanmaali)**
+<!-- **📕 Latest dev.to posts [@sohanmaali](https://dev.to/sohanmaali)** -->
 <!-- BLOG-POST-LIST:START 
 - [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
 - [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
