@@ -8,7 +8,7 @@
 <br>
 - 👨‍💻 All of my projects are available at https://github.com/Sohanmaali
 
-- 📫 How to reach me sohanmaali4@gmail.com
+- 📫 How to reach me https://gmail.com/sohanmaali4@gmail.com
 <br>
 <!-- ⚡ Fun fact **I think I am funny 😂** -->
 
