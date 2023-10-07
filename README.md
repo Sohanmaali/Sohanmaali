@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sohan maali</h1>
+<h1 align="center">Hi 👋, Wellcome to My Git Profile</h1>
 <h3 align="center">i'm self learner !!</h3>
 
+-👋, I'm Sohan maali
 
 -👀 I’m interested in ...Know New things
 
