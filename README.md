@@ -9,7 +9,8 @@
 -👨‍💻 All of my projects are available at https://github.com/Sohanmaali
 
 -📫 How to reach me sohanmaali4@gmail.com
-<!-- ⚡ Fun fact **I think I am funny 😂** -->
+
+-Fun fact **I think I am funny 😂** 
 
 <!--### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
