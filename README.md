@@ -3,7 +3,7 @@
 -🌱 I’m currently learning **everything 🤣**
 - 👨‍💻 All of my projects are available at [https://github.com/Sohanmaali](https://github.com/Sohanmaali)
 - 📫 How to reach me sohanmaali4@gmail.com
-- ⚡ Fun fact **I think I am funny 😂**
+<!-- ⚡ Fun fact **I think I am funny 😂** -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,7 +25,7 @@
 - [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
 - [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15) -->
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -47,5 +47,5 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
-
+-->
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Sohanmaali&show_icons=true alt=sohanmaali /> </p>
