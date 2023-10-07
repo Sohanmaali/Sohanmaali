@@ -6,7 +6,7 @@
 <br>
 -🌱 I’m currently learning <strong>full stack web development from infobeans foundation<strong>
 <br>
-- 👨‍💻 All of my projects are available at [https://github.com/Sohanmaali](https://github.com/Sohanmaali)
+- 👨‍💻 All of my projects are available at https://github.com/Sohanmaali
 <br>
 - 📫 How to reach me sohanmaali4@gmail.com
 <br>
