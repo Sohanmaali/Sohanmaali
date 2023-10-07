@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sohan maali</h1>
 <h3 align="center">i'm self learner !!</h3>
 - 👋 Hi, I’m @Sohan Maali
+
+
 - 👀 I’m interested in ...Know New things
+
+- 
 -🌱 I’m currently learning <strong>full stack web development from infobeans foundation<strong>
+
 
 -👨‍💻 All of my projects are available at https://github.com/Sohanmaali
 
