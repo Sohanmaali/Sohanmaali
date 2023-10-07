@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to My Git Profile</h1>
+<h1 align="center">Hi 👋, Welcome to my Git Profile</h1>
 <h3 align="center">i'm self learner !!</h3>
 
 -👋, I'm Sohan maali
