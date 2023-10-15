@@ -5,7 +5,7 @@
 
 -👀 I’m interested in ...Know New things
 
--🌱 I’m currently learning <strong>full stack web development from infobeans foundation<strong>
+-🌱 I’m currently learning <strong>Full Stack Web Development from Infobeans Foundation<strong>
 
 -👨‍💻 All of my projects are available at https://github.com/Sohanmaali
 
