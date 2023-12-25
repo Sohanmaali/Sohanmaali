@@ -5,7 +5,7 @@
 
 -👀 I’m interested in ...Know New things
 
--🌱 I’m currently learning <strong>Full Stack Web Development from Infobeans Foundation<strong>
+-🌱 I’m java <strong>Full Stack Web Developer <strong>
 
 -👨‍💻 All of my projects are available at https://github.com/Sohanmaali
 
