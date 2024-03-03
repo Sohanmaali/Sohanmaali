@@ -55,8 +55,7 @@
  <a href="https://www.oracle.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle" width="40" height="40"/> </a> &nbsp;&nbsp;
    <a href="https://www.figma.com/resource-library/design-basics/" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.png" alt="Figma" width="30" height="40"/> </a> &nbsp;&nbsp;
 
-   <a href="[https://git-scm.com/](https://code.visualstudio.com/download)" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AVisual_Studio_Code_1.35_icon.svg&psig=AOvVaw2fSX_NbPymzna0KdXvZ_A1&ust=1709543326635000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD21avf14QDFQAAAAAdAAAAABAE)" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;
-
+  
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;
 </p>
 
