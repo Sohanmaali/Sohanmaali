@@ -8,7 +8,7 @@
 -->
 <p align="left"> 
   <a href="https://www.linkedin.com/in/sohan-maali-6b3795282" target="blank">
-    <img src="https://img.shields.io/linkedin/follow/sohanmaali7?logo=linkedin&style=for-the-badge" alt="sohanmaali7" /> 
+    <img src="https://w7.pngwing.com/pngs/511/605/png-transparent-in-logo-linkedin-diduco-ab-icon-linkedin-blue-angle-text-thumbnail.png" alt="sohanmaali7" /> 
   </a>
 </p>
 
