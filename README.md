@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sohanmaali7" target="blank"><img src="https://img.shields.io/twitter/follow/sohanmaali7?logo=twitter&style=for-the-badge" alt="sohanmaali7" /></a> </p>
 
-- 🔭 I’m currently working on [Online Bank Management](jsdfnskj)
+- 🔭 I’m currently working on [Online Bank Management System](jsdfnskj)
 
 - 🌱 I’m currently learning **node js & react js**
 
-- 👯 I’m looking to collaborate on [sohan](sohan)
+<--! - 👯 I’m looking to collaborate on [sohan](sohan) -->
 
 - 🤝 I’m looking for help with [kdsjs](kjsd)
 
