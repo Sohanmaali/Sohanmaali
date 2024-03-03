@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Online Bank Management System](jsdfnskj)
 
--🌱 I’m  <strong> java Full Stack Web Developer <strong>
+- 🌱 I’m  <strong> java Full Stack Web Developer <strong>
 
 - 🤝 I’m currently learning **node js & react js**
 
