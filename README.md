@@ -6,7 +6,9 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohanmaali" alt="sohanmaali" /></a> </p>
 -->
-<p align="left"> <a href="https://www.linkedin.com/in/sohan-maali-6b3795282" target="blank"><img src="https://www.pngwing.com/en/free-png-blebf" alt="sohan maali" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/sohan-maali-6b3795282" target="blank">
+  <img src="https://img.shields.io/linkedin/follow/sohanmaali7?logo=twitter&style=for-the-badge" alt="sohanmaali7" /> 
+</a> </p>
 
 - 🔭 I’m currently working on [Online Bank Management System](jsdfnskj)
 
