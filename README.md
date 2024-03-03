@@ -33,9 +33,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sohanmaali7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohanmaali7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sohan maali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohan maali" height="30" width="40" /></a>
 <a href="https://instagram.com/sohan_maali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohan_maali1" height="30" width="40" /></a>
+<a href="https://twitter.com/sohanmaali7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohanmaali7" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sohanmaali1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sohanmaali1" height="30" width="40" /></a>
 </p>
 
