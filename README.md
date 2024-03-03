@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **node js & react js**
 
-<--! - 👯 I’m looking to collaborate on [sohan](sohan) -->
+<!-- - 👯 I’m looking to collaborate on [sohan](sohan) -->
 
 - 🤝 I’m looking for help with [kdsjs](kjsd)
 
