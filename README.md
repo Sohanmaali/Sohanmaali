@@ -37,7 +37,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-maali-6b3795282/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/sohan_maali1)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sohanmaali7) 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sohanmaali1)
 
 
 # 💻 <i>Tech Stack:</i>
