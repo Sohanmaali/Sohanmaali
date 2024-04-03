@@ -6,17 +6,17 @@
 
 # 💫 About Me:
 
-- 🌱 I’m  <strong> java Full Stack Web Developer <strong>
+- 🌱 *I’m  <strong> java Full Stack Web Developer <strong>*
 
-- 🔭 I’m currently working on [Online Bank Management System](jsdfnskj)
+- 🔭 *I’m currently working on [Online Bank Management System](jsdfnskj)*
 
 - 🏫 *I'm currently pursuing my Master's of Computer Application at University Institute of Technology RGPV Bhopal.* <br>
 
-- 🤝 I’m currently learning **react js**
+- 🤝 *I’m currently learning **react js***
 
-- 👀 I’m interested in ...Know New things
+- 👀 *I’m interested in ...Know New things*
 
-- 👯 I’m looking to collaborate on [sohan](sohan)
+- 👯 *I’m looking to collaborate on [sohan](sohan)*
 
 <!--- 🤝 I’m looking for help with [kdsjs](kjsd) -->
 
@@ -24,13 +24,13 @@
 
 <!-- - 📝 I regularly write articles on [blog link](blog link) -->
 
-- 💬 Ask me about **java**
+- 💬 *Ask me about **java***
 
-- 📫 How to reach me **sohanmaali4@gmail.com**
+- 📫 *How to reach me **sohanmaali4@gmail.com***
 
 <!-- - 📄 Know about my experiences [resume link](resume link) -->
 
-- ⚡ Fun fact **I think I am so funny 😂**
+- ⚡ *Fun fact **I think I am so funny 😂***
 
 
 ## 🌐 Socials:
