@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohan Maali <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-<h3 align="center">i'm self learner !!</h3>
+<h3 align="center"> <i>i'm self learner !!</i></h3>
 
 ![](https://komarev.com/ghpvc/?username=Sohanmaali&label=Profile%20Views&pretty=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
