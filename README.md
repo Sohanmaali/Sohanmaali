@@ -3,7 +3,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sohanmaali&label=Weekly%20Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-<p align="left"> https://komarev.com/ghpvc/?username=sohanmaali&label=Weekly%20Profile%20Views&&pretty=false" </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanmaali&label=Weekly%20Profile%20Views&&pretty=false" alt="sohanmaali" /> </p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
