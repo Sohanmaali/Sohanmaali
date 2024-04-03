@@ -60,6 +60,10 @@
 
 
 
+![git](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=git&logoColor=white)
+![GiHub](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=github&logoColor=white)
+
+
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
