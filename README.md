@@ -2,7 +2,7 @@
 <h3 align="center">i'm self learner !!</h3>
 [![](https://visitcount.itsvg.in/api?id=Sohanmaali&label=Weekly%20Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=sohanmaali&label=Weekly%20Profile%20Views&pretty=false)
+![](https://komarev.com/ghpvc/?username=Sohanmaali&label=Weekly%20Profile%20Views&pretty=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
