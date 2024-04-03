@@ -14,7 +14,8 @@
 **⚡ Fun fact: In my free time, I enjoy reading personal development books, writing about my thoughts, sharing my ideas, and talking about #WhatInspiresMe✨** <br>
 <!--[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bhagiasheri24) -->
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-maali-6b3795282/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-maali-6b3795282/)
+[![LinkedIn](https://img.shields.io/badge/instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://instagram.com/in/sohan_maali1)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sohanmaali7) 
 
 # 💻 Tech Stack:
