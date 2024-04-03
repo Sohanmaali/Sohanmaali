@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sohanmaali&label=Weekly%20Profile%20Views&pretty=false)
 
-![](https://visitcount.itsvg.in/api?username=sohanmaali&label=Weekly%20Profile%20Views&pretty=false)
+![](https://visitcount.itsvg.in/api?username=sohanmaali&label=Weekly%20Profile%20Views&pretty=false)(https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
