@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sohan Maali <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <h3 align="center"> <i>i'm self learner !!</i></h3>
 
-![](https://komarev.com/ghpvc/?username=Sohanmaali&color=javascript:(function()%7Bvar%20letters%20%3D%20'0123456789ABCDEF'%3Bvar%20color%20%3D%20'%23'%3Bfor%20(var%20i%20%3D%200%3B%20i%20%3C%206%3B%20i%2B%2B)%20%7Bcolor%20%2B%3D%20letters%5BMath.floor(Math.random()%20*%2016)%5D%3B%7Ddocument.querySelector('.left').style.background%20%3D%20color%7D)())
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/Sohanmaali/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-
+![](https://komarev.com/ghpvc/?username=Sohanmaali&color=green)
 # 💫 <i>About Me:</i>
 
 - 🌱 *I’m  <strong> java Full Stack Web Developer <strong>*
