@@ -60,6 +60,11 @@
 
 
 
+
+![git](https://img.shields.io/badge/visual%20studio-%23FF6F00.svg?style=flat&logo=visual-studio-code&logoColor=white
+
+
+
 ![git](https://img.shields.io/badge/git-%23FF6F00.svg?style=flat&logo=git&logoColor=white)
 ![GiHub](https://img.shields.io/badge/GiHub-%F9DC3e.svg?style=flat&logo=github&logoColor=white)
 
