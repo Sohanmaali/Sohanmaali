@@ -56,31 +56,31 @@
 
 
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/in/database/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 
 
 
-![Visual Studio](https://img.shields.io/badge/visual%20studio-%23FF6F00.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)
-![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+[![Visual Studio](https://img.shields.io/badge/visual%20studio-%23FF6F00.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/download)
+[![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/front/main/download/index.htm)
+[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)](https://www.eclipse.)
+[![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Spring Tool Suite 4](https://img.shields.io/badge/Spring_Tool_Suite_4-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/tools)
 
 
 
 
-![git](https://img.shields.io/badge/git-%23FF6F00.svg?style=flat&logo=git&logoColor=white)
-![GiHub](https://img.shields.io/badge/GiHub-%F9DC3e.svg?style=flat&logo=github&logoColor=white)
+[![git](https://img.shields.io/badge/git-%23FF6F00.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GiHub](https://img.shields.io/badge/GiHub-%F9DC3e.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
 
 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
+[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com/files/recents-and-sharing?fuid=1290023165947971338)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)](https://www.canva.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
+[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.ht)
 
 
 <!--
