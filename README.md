@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Sohanmaali&label=Profile%20Views&pretty=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# 💫 About Me:
+# 💫 <i>About Me:</i>
 
 - 🌱 *I’m  <strong> java Full Stack Web Developer <strong>*
 
