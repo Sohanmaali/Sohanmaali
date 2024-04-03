@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Online Bank Management System](jsdfnskj)
 
-🏫 **I'm currently pursuing my Master's in Computer Science through distance education at Rajiv Gandhi Proudyogiki Vishwavidyalaya.** <br>
+- 🏫 *I'm currently pursuing my Master's of Computer Application at University Institute of Technology RGPV Bhopal.* <br>
 
 - 🤝 I’m currently learning **react js**
 
