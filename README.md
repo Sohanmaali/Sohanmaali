@@ -3,6 +3,12 @@
 
 ![](https://komarev.com/ghpvc/?username=Sohanmaali&label=Profile%20Views&pretty=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohanmaali" alt="sohanmaali" /></a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/sohan-maali-6b3795282" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohan_maali1" height="30" width="40" />
+  </a>
+</p>
 
 # 💫 About Me:
 
