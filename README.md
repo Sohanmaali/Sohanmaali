@@ -2,6 +2,7 @@
 <h3 align="center"> <i>i'm self learner !!</i></h3>
 
 ![](https://komarev.com/ghpvc/?username=Sohanmaali&label=Profile%20Views&pretty=false)
+![](https://visitcount.itsvg.in/api?id=Sohanmaali&label=Weekly%20Profile%20Views&pretty=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 <i>About Me:</i>
