@@ -3,7 +3,7 @@
 
 <!--![](https://visitcount.itsvg.in/api?id=sohanmaali&label=Weekly%20Profile%20Views&pretty=false)-->
 [![](https://visitcount.itsvg.in/api?id=Sohanmaali&label=Weekly%20Profile%20Views&pretty=false)]()
-[![](https://visitcount.itsvg.in/id=sohanmaali&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sohanmaali&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 <i>About Me:</i>
