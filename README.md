@@ -4,15 +4,35 @@
 ![](https://komarev.com/ghpvc/?username=Sohanmaali&label=Profile%20Views&pretty=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
 # 💫 About Me:
-⚡ **Working as a Software Engineer (Java Developer)** <br>
+
+- 🌱 I’m  <strong> java Full Stack Web Developer <strong>
+
+- 🔭 I’m currently working on [Online Bank Management System](jsdfnskj)
+
 🏫 **I'm currently pursuing my Master's in Computer Science through distance education at Rajiv Gandhi Proudyogiki Vishwavidyalaya.** <br>
-🤝 **I'm looking to collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.**<br>
-🌱 **I'm learning about US professional culture as well as exploring Big Data Technologies along with Cloud Services.** <br>
-💬 **We can have a chat about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #CloudComputing, #IndustryBestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!** <br>
-**⚡ Fun fact: In my free time, I enjoy reading personal development books, writing about my thoughts, sharing my ideas, and talking about #WhatInspiresMe✨** <br>
-<!--[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bhagiasheri24) -->
+
+- 🤝 I’m currently learning **react js**
+
+- 👀 I’m interested in ...Know New things
+
+- 👯 I’m looking to collaborate on [sohan](sohan)
+
+<!--- 🤝 I’m looking for help with [kdsjs](kjsd) -->
+
+<!--- 👨‍💻 All of my projects are available at [portpoliyo link](portpoliyo link) -->
+
+<!-- - 📝 I regularly write articles on [blog link](blog link) -->
+
+- 💬 Ask me about **java**
+
+- 📫 How to reach me **sohanmaali4@gmail.com**
+
+<!-- - 📄 Know about my experiences [resume link](resume link) -->
+
+- ⚡ Fun fact **I think I am so funny 😂**
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-maali-6b3795282/)
 [![LinkedIn](https://img.shields.io/badge/instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://instagram.com/sohan_maali1)
