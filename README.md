@@ -40,9 +40,9 @@
 
 # 💻 <i>Tech Stack:</i>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
-![hibernate](https://img.shields.io/badge/spring%20boot-%236DB00F.svg?style=flat&logo=hibernate&logoColor=white)
+![hibernate](https://img.shields.io/badge/spring%20boot-%C71A36.svg?style=flat&logo=hibernate&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33A.svg?style=flat&logo=spring&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%23363636.svg?style=flat&logo=springboot&logoColor=white)
 
 
 
