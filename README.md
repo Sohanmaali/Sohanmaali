@@ -41,18 +41,18 @@
 
 
 # 💻 <i>Tech Stack:</i>
-[![](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-![hibernate](https://img.shields.io/badge/hibernate-%C71A36.svg?style=flat&logo=hibernate&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33A.svg?style=flat&logo=spring&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%23363636.svg?style=flat&logo=springboot&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![hibernate](https://img.shields.io/badge/hibernate-%C71A36.svg?style=flat&logo=hibernate&logoColor=white)](https://hibernate.org/)
+[![Spring](https://img.shields.io/badge/spring-%236DB33A.svg?style=flat&logo=spring&logoColor=white)](https://spring.io/)
+[![Spring Boot](https://img.shields.io/badge/spring%20boot-%23363636.svg?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 
 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/) 
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)]() 
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)]()
 
 
 
