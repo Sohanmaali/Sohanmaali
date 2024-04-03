@@ -2,7 +2,7 @@
 <h3 align="center"> <i>i'm self learner !!</i></h3>
 
 <!--![](https://visitcount.itsvg.in/api?id=sohanmaali&label=Weekly%20Profile%20Views&pretty=false)-->
-[![](https://visitcount.itsvg.in/api?id=Sohanmaali&label=Weekly%20Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sohanmaali&label=Weekly%20Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 <i>About Me:</i>
