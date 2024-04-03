@@ -61,7 +61,7 @@
 
 
 
-![git](https://img.shields.io/badge/visual%20studio-%23FF6F00.svg?style=flat&logo=visual-studio-code&logoColor=white
+![Visual Studio](https://img.shields.io/badge/visual%20studio-%23FF6F00.svg?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 
