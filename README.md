@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohan Maali <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <h3 align="center"> <i>i'm self learner !!</i></h3>
 
-<!--![](https://visitcount.itsvg.in/api?id=sohanmaali&label=Weekly%20Profile%20Views&pretty=false)-->
-[![](https://visitcount.itsvg.in/api?id=Sohanmaali&label=Weekly%20Profile%20Views&pretty=false)]()
-[![](https://visitcount.itsvg.in/api?id=sohanmaali&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://komarev.com/ghpvc/?username=Sohanmaali&color=green)
 
 # 💫 <i>About Me:</i>
 
