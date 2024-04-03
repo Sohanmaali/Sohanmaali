@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sohan Maali <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <h3 align="center"> <i>i'm self learner !!</i></h3>
 
-![](https://komarev.com/ghpvc/?username=Sohanmaali&color=green)
+![](https://komarev.com/ghpvc/?username=Sohanmaali&color=javascript:(function()%7Bvar%20letters%20%3D%20'0123456789ABCDEF'%3Bvar%20color%20%3D%20'%23'%3Bfor%20(var%20i%20%3D%200%3B%20i%20%3C%206%3B%20i%2B%2B)%20%7Bcolor%20%2B%3D%20letters%5BMath.floor(Math.random()%20*%2016)%5D%3B%7Ddocument.querySelector('.left').style.background%20%3D%20color%7D)())
+
 
 # 💫 <i>About Me:</i>
 
