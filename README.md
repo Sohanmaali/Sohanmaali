@@ -151,9 +151,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohanmaali&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=sohanmaali&theme=gotham&hide_border=false) <br>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=sohanmaali&theme=gotham&hide_border=false)-->
- <p style="width: 100%; height: 400px; display: flex; justify-content: center; align-items: center;">
+<center>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanmaali&theme=gotham&hide_border=false" alt="Streak Stats">
-    </p>
+    </center>
 
 
 ## 🏆 <i>GitHub Trophies</i>
