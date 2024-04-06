@@ -87,7 +87,7 @@
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.ht)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.ht)
 
 
 <!--
