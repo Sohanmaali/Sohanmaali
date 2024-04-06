@@ -147,9 +147,10 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 -->
 # 📊 <i>GitHub Stats:</i>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohanmaali&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=sohanmaali&theme=gotham&hide_border=false) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sohanmaali&theme=gotham&hide_border=false)
+<p align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=sohanmaali&theme=gotham&hide_border=false)</p>
 
 
 ## 🏆 <i>GitHub Trophies</i>
