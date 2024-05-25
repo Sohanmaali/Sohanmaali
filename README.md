@@ -14,7 +14,7 @@
 
 - 🌱 *I’m  <strong> java Full Stack Web Developer <strong>*
 
-- 🔭 *I’m currently working on [Online Bank Management System](jsdfnskj)*
+- 🔭 *I’m currently working on [Scrap Second Life](jsdfnskj)*
 
 - 🏫 *I'm currently pursuing my Master's of Computer Application at University Institute of Technology RGPV Bhopal.* <br>
 
