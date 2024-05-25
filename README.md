@@ -14,7 +14,7 @@
 
 - 🌱 *I’m  <strong> java Full Stack Web Developer <strong>*
 
-- 🔭 *I’m currently working on [Scrap Second Life](jsdfnskj)*
+- 🔭 *I’m currently working on [Scrap Second Life](https://github.com/Sohanmaali/Second-Life-RRR)*
 
 - 🏫 *I'm currently pursuing my Master's of Computer Application at University Institute of Technology RGPV Bhopal.* <br>
 
@@ -22,7 +22,7 @@
 
 - 👀 *I’m interested in ...Know New things*
 
-- 👯 *I’m looking to collaborate on [sohan](sohan)*
+- 👯 *I’m looking to collaborater*
 
 <!--- 🤝 I’m looking for help with [kdsjs](kjsd) -->
 
