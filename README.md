@@ -170,6 +170,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/sohanmaali/sohanmaali/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Sohanmaali/Sohanmaali/blob/output/github-contribution-grid-snake.svg)
 
 
