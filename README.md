@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Java-Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCG1mI-HLbb_ZCHMnazItx0XCSoQccJGOIsQ&s" alt="my banner">
 
     
 ![](https://komarev.com/ghpvc/?username=Sohanmaali&color=green)
