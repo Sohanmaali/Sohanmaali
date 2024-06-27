@@ -161,7 +161,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sohanmaali&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 <i>Top Contributed Repo</i>
-![](https://github-contributor-stats.vercel.app/api?username=Sohanmaali&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Sohanmaali&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+</div>
+
 
 ### ✍️ <i>Dev Quote</i>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
