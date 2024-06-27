@@ -6,9 +6,6 @@
   <a href="https://github.com/Sohanmaali/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Java-Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
-<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCG1mI-HLbb_ZCHMnazItx0XCSoQccJGOIsQ&s" alt="my banner">
-
     
 ![](https://komarev.com/ghpvc/?username=Sohanmaali&color=green)
 # 💫 <i>About Me:</i>
@@ -53,8 +50,8 @@
 [![Spring](https://img.shields.io/badge/spring-%236DB33A.svg?style=flat&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-%23363636.svg?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Microservices](https://img.shields.io/badge/Microservices-%23316192?style=flat)](https://en.wikipedia.org/wiki/Microservices)
-[![Node](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)](https://node.com/)
-[![Node](https://img.shields.io/badge/express-%2370D7F4.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![Express](https://img.shields.io/badge/express-%2370D7F4.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 
 
 
