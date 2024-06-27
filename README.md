@@ -45,7 +45,7 @@
 
 
 # 💻 <i>Tech Stack:</i>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
 [![hibernate](https://img.shields.io/badge/hibernate-%C71A36.svg?style=flat&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![Spring](https://img.shields.io/badge/spring-%236DB33A.svg?style=flat&logo=spring&logoColor=white)](https://spring.io/)
 [![Spring Boot](https://img.shields.io/badge/spring%20boot-%23363636.svg?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
