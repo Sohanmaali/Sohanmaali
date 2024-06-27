@@ -161,7 +161,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Sohanmaali&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 <i>Top Contributed Repo</i>
-<div align="center">
+<div >
   <img src="https://github-contributor-stats.vercel.app/api?username=Sohanmaali&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </div>
 
