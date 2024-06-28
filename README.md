@@ -1,12 +1,8 @@
 <h1 align="center" font=Fira>Hi 👋, I'm Sohan Maali <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <h3 align="center"> <i>i'm self learner !!</i></h3>
 
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/Sohanmaali/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java-&-Mern-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Java-&-Mern-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22)](https://github.com/Sohanmaali/readme-typing-svg)
+
 
     
 ![](https://komarev.com/ghpvc/?username=Sohanmaali&color=green)
