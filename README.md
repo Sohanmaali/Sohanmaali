@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=Sohanmaali&color=green)
 # 💫 <i>About Me:</i>
 
-- 🌱 *I’m  <strong> java Full Stack Web Developer <strong>*
+- 🌱 *I’m  <strong> Mern Full Stack Developer <strong>*
 
 - 🔭 *I’m currently working on [Scrap Second Life](https://github.com/Sohanmaali/Second-Life-RRR)*
 
@@ -29,7 +29,7 @@
 
 <!-- - 📝 I regularly write articles on [blog link](blog link) -->
 
-- 💬 *Ask me about **java***
+- 💬 *Ask me about **java & Mern ***
 
 - 📫 *How to reach me **sohanmaali4@gmail.com***
 
@@ -53,6 +53,7 @@
 [![Microservices](https://img.shields.io/badge/Microservices-%23316192?style=flat)](https://en.wikipedia.org/wiki/Microservices)
 [![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![Express](https://img.shields.io/badge/express-%2370D7F4.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![Nest.js](https://img.shields.io/badge/nest-%2370E7F4.svg?style=flat&logo=express&logoColor=white)](https://docs.nestjs.com/)
 
 
 
