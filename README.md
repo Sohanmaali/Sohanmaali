@@ -53,7 +53,7 @@
 [![Microservices](https://img.shields.io/badge/Microservices-%23316192?style=flat)](https://en.wikipedia.org/wiki/Microservices)
 [![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![Express](https://img.shields.io/badge/express-%2370D7F4.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-[![Nest.js](https://img.shields.io/badge/nest-%2370E7F4.svg?style=flat&logo=express&logoColor=white)](https://docs.nestjs.com/)
+[![Nest.js](https://img.shields.io/badge/nest.js-%2370E7F4.svg?style=flat&logo=express&logoColor=white)](https://docs.nestjs.com/)
 
 
 
