@@ -11,13 +11,13 @@
 ![](https://komarev.com/ghpvc/?username=Sohanmaali&color=green)
 # 💫 <i>About Me:</i>
 
-- 🌱 *I’m  <strong> Mern Full Stack Developer <strong>*
+- 🌱 *I’m  <strong> Mern Stack Developer <strong>*
 
 - 🔭 *I’m currently working on [Scrap Second Life](https://github.com/Sohanmaali/Second-Life-RRR)*
 
 - 🏫 *I'm currently pursuing my Master's of Computer Application at University Institute of Technology RGPV Bhopal.* <br>
 
-- 🤝 *I’m currently learning **react js***
+- 🤝 *I’m currently learning **nest js***
 
 - 👀 *I’m interested in ...Know New things*
 
@@ -29,7 +29,7 @@
 
 <!-- - 📝 I regularly write articles on [blog link](blog link) -->
 
-- 💬 *Ask me about **java & Mern ***
+- 💬 *Ask me about **java & Mern***
 
 - 📫 *How to reach me **sohanmaali4@gmail.com***
 
