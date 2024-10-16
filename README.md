@@ -19,6 +19,8 @@
 
 - 🤝 *I’m currently learning **nest js***
 
+- 🤝 *I’m currently working in **FODUU Web Design Company India***
+
 - 👀 *I’m interested in ...Know New things*
 
 - 👯 *I’m looking to collaborater*
