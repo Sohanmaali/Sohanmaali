@@ -19,7 +19,7 @@
 
 - 🤝 *I’m currently learning **nest js***
 
-- 🤝 *I’m currently working in **FODUU Web Design Company India***
+- 🤝 *I’m currently working in **[FODUU Web Design Company India](https://www.foduu.com/)***
 
 - 👀 *I’m interested in ...Know New things*
 
