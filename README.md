@@ -13,7 +13,7 @@
 
 - 🌱 *I’m  <strong> Mern Stack Developer <strong>*
 
-- 🔭 *I’m currently working on [Scrap Second Life](https://github.com/Sohanmaali/Second-Life-RRR)*
+- 🔭 *I’m currently working on [Scrapify](https://scrapify-livb.onrender.com/)*
 
 - 🏫 *I'm currently pursuing my Master's of Computer Application at University Institute of Technology RGPV Bhopal.* <br>
 
