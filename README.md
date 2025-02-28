@@ -8,7 +8,7 @@
 </p>
 
     
-![](https://komarev.com/ghpvc/?username=Sohanmaali&color=green)
+![](https://showcase-with-sohan.vercel.app/&color=green)
 # 💫 <i>About Me:</i>
 
 - 🌱 *I’m  <strong> Mern Stack Developer <strong>*
