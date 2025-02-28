@@ -8,7 +8,7 @@
 </p>
 
     
-![](https://showcase-with-sohan.vercel.app/&color=green)
+![](https://showcase-with-sohan.vercel.app)
 # 💫 <i>About Me:</i>
 
 - 🌱 *I’m  <strong> Mern Stack Developer <strong>*
