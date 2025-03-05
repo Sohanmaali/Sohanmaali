@@ -37,7 +37,7 @@
 
 - 📫 *How to reach me **sohanmaali4@gmail.com***
 
-<!-- - 📄 Know about my experiences [resume link](resume link) -->
+ - 📄 Know about my experiences [Resume](https://github.com/Sohanmaali/showcase-with-sohan/blob/main/public/assets/file/Sohan_Maali_Resume.pdf) 
 
 - ⚡ *Fun fact **I think I am so funny 😂***
 
