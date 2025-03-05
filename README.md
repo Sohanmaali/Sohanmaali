@@ -3,7 +3,6 @@
 
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/VinodChoudhart12/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=JAVA And MERN stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
@@ -30,7 +29,7 @@
 
 <!--- 🤝 I’m looking for help with [kdsjs](kjsd) -->
 
-<!--- 👨‍💻 All of my projects are available at [portpoliyo link](portpoliyo link) -->
+ 👨‍💻 All of my projects are available at [https://showcase-with-sohan.vercel.app](portpoliyo link) 
 
 <!-- - 📝 I regularly write articles on [blog link](blog link) -->
 
