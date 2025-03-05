@@ -7,8 +7,8 @@
   <a href="https://github.com/VinodChoudhart12/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=JAVA And MERN stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-![Banner](https://github.com/Sohanmaali/showcase-with-sohan/blob/main/public/assets/images/github-header-image.png)
 
+![Banner](https://github.com/Sohanmaali/showcase-with-sohan/blob/main/public/assets/images/github-header-image.png)
     
 ![](https://showcase-with-sohan.vercel.app)
 # 💫 <i>About Me:</i>
