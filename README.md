@@ -29,7 +29,7 @@
 
 <!--- 🤝 I’m looking for help with [kdsjs](kjsd) -->
 
- 👨‍💻 All of my projects are available at [https://showcase-with-sohan.vercel.app](portpoliyo link) 
+ 👨‍💻 All of my projects are available at [Portfolio link](https://showcase-with-sohan.vercel.app) 
 
 <!-- - 📝 I regularly write articles on [blog link](blog link) -->
 
