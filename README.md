@@ -2,10 +2,7 @@
 <h3 align="center"> <i>i'm self learner !!</i></h3>
 
 
-<p align="center">
-  <a href="https://github.com/VinodChoudhart12/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=JAVA And MERN stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=JAVA+And+MERN+stack+web+developer%2C;+Always+learning++new+things)](https://git.io/typing-svg)
 
 ![Banner](https://github.com/Sohanmaali/showcase-with-sohan/blob/main/public/assets/images/github-header-image.png)
     
