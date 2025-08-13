@@ -17,13 +17,13 @@
 - 🌱 *I’m  <strong> Mern Stack Developer <strong> specializing in **React, NestJS, and MongoDB/MySQL**. Passionate about building scalable applications and interactive UIs with **Core UI, Tailwind CSS, and Redux**.*
 - 🌱 Learning **Advanced NestJS & Database Optimization**
 
-- 🔭 *I’m currently working on [Scrapify](https://scrapify-livb.onrender.com/)*
+- 🔭 *I’m currently working on [Aok](https://aok.vercel.app/)*
 
 - 🏫 *I'm currently pursuing my Master's of Computer Application at University Institute of Technology RGPV Bhopal.* <br>
 
-- 🤝 *I’m currently learning **nest js***
+- 🤝 *I’m currently learning **Dot Net***
 
-- 🤝 *I’m currently working in **[FODUU Web Design Company India](https://www.foduu.com/)***
+- 🤝 *I’m currently working in **[LIYANSH SOLUTION PRIVATE LIMITED](#)***
 
 - 👀 *I’m interested in ...Know New things*
 
@@ -35,7 +35,7 @@
 
 <!-- - 📝 I regularly write articles on [blog link](blog link) -->
 
-- 💬 *Ask me about **java & Mern***
+- 💬 *Ask me about **java & Mern & Dot Net***
 
 - 📫 *How to reach me **sohanmaali4@gmail.com***
 
@@ -49,7 +49,7 @@
 
 ## 🌐 <i>Socials:</i>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-maali1/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/sohan.maali1)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/sohan_maali.1)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sohanmaali7) 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sohanmaali1)
 
