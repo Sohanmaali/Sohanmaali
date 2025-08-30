@@ -20,7 +20,7 @@
 
 - 🤝 *I’m currently learning **Dot Net***
 
-- 🤝 *I’m currently working in **[LIYANSH SOLUTION PRIVATE LIMITED](#)***
+- 🤝 *I’m currently working in **[LIYANSH SOLUTION PRIVATE LIMITED](https://liyanshsolution.com/)***
 
 - 👀 *I’m interested in ...Know New things*
 
