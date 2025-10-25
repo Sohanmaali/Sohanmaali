@@ -11,14 +11,14 @@
 ![](https://showcase-with-sohan.vercel.app)
 # 💫 <i>About Me:</i>
 
-- 🌱 *I’m  <strong> Mern Stack Developer <strong> specializing in **React, NestJS, and MongoDB/MySQL**. Passionate about building scalable applications and interactive UIs with **Core UI, Tailwind CSS, and Redux**.*
+- 🌱 *I’m  <strong> Full Stack Developer <strong> specializing in **ReactJS, NextJS, NestJS, Dotnet and MongoDB/MySQL**. Passionate about building scalable applications and interactive UIs with **Core UI, Tailwind CSS, and Redux**.*
 - 🌱 Learning **Advanced NestJS & Database Optimization**
 
 - 🔭 *I’m currently working on [Aok](https://aok.vercel.app/)*
 
 - 🏫 *I'm currently pursuing my Master's of Computer Application at University Institute of Technology RGPV Bhopal.* <br>
 
-- 🤝 *I’m currently learning **Dot Net***
+- 🤝 *I’m currently learning **AI/ML***
 
 - 🤝 *I’m currently working in **[LIYANSH SOLUTION PRIVATE LIMITED](https://liyanshsolution.com/)***
 
