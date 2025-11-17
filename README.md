@@ -28,7 +28,7 @@
 
 <!--- 🤝 I’m looking for help with [kdsjs](kjsd) -->
 
-- 👨‍💻 All of my projects are available at [Portfolio link](https://sohanmaali.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio link](https://sohanmaali.com)
 
 <!-- - 📝 I regularly write articles on [blog link](blog link) -->
 
