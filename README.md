@@ -55,7 +55,7 @@
 
 # 💻 <i>Tech Stack:</i>
 
-## 🌐 <i>Backend:</i>
+### 🌐 <i>Backend:</i>
 [![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en)
 [![Express](https://img.shields.io/badge/express-%2370D7F4.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
@@ -69,7 +69,7 @@
 [![Microservices](https://img.shields.io/badge/Microservices-%23316192?style=flat)](https://en.wikipedia.org/wiki/Microservices)
 
 
-## 🌐 <i>Front End:</i>
+### 🌐 <i>Front End:</i>
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)]() 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)]()
 [![Next](https://img.shields.io/badge/next-%2320232a.svg?style=flat&logo=next&logoColor=%2361AAFB)]()
@@ -82,20 +82,20 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
 
 
-## 🌐 <i>DataBase:</i>
+### 🌐 <i>DataBase:</i>
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 [![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/in/database/)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
-## 🌐 <i>AI ML:</i>
+### 🌐 <i>AI ML:</i>
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 
 
-## 🌐 <i>Tools:</i>
+### 🌐 <i>Tools:</i>
 [![Visual Studio](https://img.shields.io/badge/visual%20studio-%23FF6F00.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/download)
 [![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/front/main/download/index.htm)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)](https://www.eclipse.)
