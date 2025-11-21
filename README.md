@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanmaali&label=Profile%20views&color=0e75b6&style=flat" alt="sohanmaali" /> </p>
 <h1 align="center" font=Fira>Hi 👋, I'm Sohan Maali <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
 <h3 align="center"> <i>i'm self learner !!</i></h3>
 
@@ -8,7 +9,6 @@
   </a>
 </p>
     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanmaali&label=Profile%20views&color=0e75b6&style=flat" alt="sohanmaali" /> </p>
 
 ![](https://showcase-with-sohan.vercel.app)
 # 💫 <i>About Me:</i> 
