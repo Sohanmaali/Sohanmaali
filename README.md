@@ -9,7 +9,6 @@
 </p>
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanmaali&label=Profile%20views&color=0e75b6&style=flat" alt="sohanmaali" /> </p>
-![](https://showcase-with-sohan.vercel.app)
 # 💫 <i>About Me:</i> 
 
 - 🌱 *I’m  <strong> Full Stack Developer <strong> specializing in **ReactJS, NextJS, NestJS, Dotnet and MongoDB/MySQL**. Passionate about building scalable applications and interactive UIs with **Core UI, Tailwind CSS, and Redux**.*
