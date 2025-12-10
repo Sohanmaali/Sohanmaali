@@ -172,9 +172,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohanmaali&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=sohanmaali&theme=gotham&hide_border=false) <br>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=sohanmaali&theme=gotham&hide_border=false)-->
-<center>
-       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sohanmaali" alt="GitHub Streak" /></a>
-    </center>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sohanmaali)](https://git.io/streak-stats)
 
 
 ## 🏆 <i>GitHub Trophies</i>
