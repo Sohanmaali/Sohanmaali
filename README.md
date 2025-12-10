@@ -173,7 +173,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sohanmaali&theme=gotham&hide_border=false) <br>
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=sohanmaali&theme=gotham&hide_border=false)-->
 <center>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanmaali&theme=gotham&hide_border=false" alt="Streak Stats">
+       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sohanmaali" alt="GitHub Streak" /></a>
     </center>
 
 
