@@ -20,11 +20,11 @@ const PROFILE = {
   // neofetch lines: [key, value]
   info: [
     ['Name', 'Sohan Maali'],
-    ['Role', 'Full Stack Developer'],
-    ['Work', 'Liyansh Solution Pvt. Ltd.'],
+    ['Role', '.NET Full Stack Developer'],
+    ['Working', 'Liyansh Solution Pvt. Ltd.'],
     ['Building', 'Keepvio · keepvio.com'],
-    ['Studying', 'MCA · UIT RGPV, Bhopal'],
-    ['Learning', 'AI/ML · advanced NestJS'],
+    ['Education', 'MCA · RGPV, Bhopal'],
+    ['Learning', 'AI/ML · system design'],
     ['Ask me', 'Java · MERN · .NET'],
     ['Motto', 'self learner, always learning new things'],
     ['Status', 'open to collaborate'],
@@ -32,16 +32,7 @@ const PROFILE = {
   about: [
     'Full Stack Developer specializing in ReactJS, NextJS, NestJS, Dotnet and MongoDB/MySQL',
     'Passionate about building scalable applications and interactive UIs with Core UI, Tailwind CSS and Redux',
-    'Learning advanced NestJS and database optimization',
-    'Currently working on Keepvio (keepvio.com)',
-    'Pursuing my Master of Computer Application at University Institute of Technology, RGPV Bhopal',
-    'Currently learning AI/ML',
-    'Currently working at Liyansh Solution Private Limited',
     'Interested in knowing new things',
-    'Looking to collaborate',
-    'All of my projects are available at sohanmaali.com',
-    'Ask me about Java, MERN and Dot Net',
-    'Reach me at sohanmaali4@gmail.com',
     'Fun fact: I think I am so funny',
   ],
   stack: [
@@ -205,12 +196,23 @@ const GLYPHS = {
 };
 
 function hero() {
-  const p = PROFILE, H = 456;
-  const [head, t0] = shell('neofetch');
+  const p = PROFILE, H = 494;
+  // first command prints the greeting, the second one is neofetch
+  const [hello, tg] = shell('./hello');
+  const gs = 24, gw = gs * CW;
+  const greet = mono(PAD, 110, 'Hi', { size: gs, weight: 800 })
+    + `<text class="wave" x="${n1(PAD + 2.4 * gw)}" y="110" font-size="${gs}">👋</text>`
+    + mono(n1(PAD + 5 * gw), 110, ", I'm", { size: gs, weight: 800 })
+    + mono(n1(PAD + 11 * gw), 110, p.name, { size: gs, weight: 800, fill: C.cyan });
+  const [pr1, cxn] = prompt(PAD, 146);
+  const [cmd2, tn] = typed(cxn, 146, 'neofetch', tg + 0.9);
+  const t0 = tn + 0.25;
+  const head = `<style>.wave{transform-box:fill-box;transform-origin:70% 80%;animation:wave 2.2s ease-in-out infinite}@keyframes wave{0%,55%,100%{transform:rotate(0)}10%,30%{transform:rotate(16deg)}20%,40%{transform:rotate(-10deg)}}</style>`
+    + hello + fade(tg, greet) + fade(tg + 0.7, pr1) + cmd2;
   let o = win(H, `${p.user}@${p.host}: ~`) + head;
 
   // pixel monogram with a hard shadow
-  const px = 22, ax = 40, ay = 112, cols = p.initials.length * 6 - 1;
+  const px = 22, ax = 40, ay = 180, cols = p.initials.length * 6 - 1;
   let shadow = '', pixels = '';
   [...p.initials].forEach((ch, gi) => {
     (GLYPHS[ch] ?? []).forEach((row, r) => [...row].forEach((bit, c0) => {
@@ -227,7 +229,7 @@ function hero() {
 
   // info column
   const ix = 322, cw = SIZE * CW, who = `${p.user}@${p.host}`;
-  let d = t0 + 0.1, y = 122;
+  let d = t0 + 0.1, y = 190;
   o += fade(d, mono(ix, y, who, { fill: C.cyan, weight: 700 }) + mono(ix, y + 20, '-'.repeat(who.length), { fill: C.muted }));
   y += 20;
   p.info.forEach(([k, v], i) => {
@@ -238,14 +240,10 @@ function hero() {
     row += mono(n1(vx + (last ? 18 : 0)), y, v, { fill: last ? C.green : C.text });
     o += fade(d, row);
   });
-  y += 20;
-  let pal = '';
-  [C.muted, C.magenta, C.orange, C.yellow, C.green, C.cyan, C.purple, C.text].forEach((c, i) => { pal += `<rect x="${ix + i * 30}" y="${y}" width="30" height="16" fill="${c}"/>`; });
-  o += fade(d + 0.12, pal);
 
   const [pr2, cx2] = prompt(PAD, H - 24);
   o += fade(d + 0.3, `${pr2}<rect class="cur" x="${n1(cx2)}" y="${H - 38}" width="9" height="17" fill="${C.cyan}"/>`);
-  return svg(W, H, `${p.name}: ${p.info.map(([k, v]) => `${k} ${v}`).join(', ')}`, o);
+  return svg(W, H, `Hi, I'm ${p.name}. ${p.info.map(([k, v]) => `${k} ${v}`).join(', ')}`, o);
 }
 
 function about() {
@@ -362,9 +360,16 @@ function stats(s) {
   [['Total stars earned', s?.stars], ['Commits · last year', s?.commits], ['Pull requests', s?.prs], ['Issues', s?.issues], ['Contributed to', s?.contributedTo]].forEach(([name, value], i) => {
     const y = py + 66 + i * 34;
     left += mono(PAD + 18, y, name, { size: 14.5, fill: C.text });
-    left += mono(PAD + pw - 18, y, v(value), { size: 16, fill: ink, weight: 700, anchor: 'end' });
-    if (i < 4) left += `<line x1="${PAD + 18}" x2="${PAD + pw - 18}" y1="${y + 12.5}" y2="${y + 12.5}" stroke="${C.border}"/>`;
+    left += mono(PAD + pw - 132, y, v(value), { size: 16, fill: ink, weight: 700, anchor: 'end' });
+    if (i < 4) left += `<line x1="${PAD + 18}" x2="${PAD + pw - 132}" y1="${y + 12.5}" y2="${y + 12.5}" stroke="${C.border}"/>`;
   });
+  // overall rank ring
+  const rk = s ? rank(s) : null, rx = PAD + pw - 62, ry = py + 128, rr = 42, circ = 2 * Math.PI * rr;
+  left += `<circle cx="${rx}" cy="${ry}" r="${rr}" fill="none" stroke="${C.border}" stroke-width="8"/>`;
+  if (rk) left += `<circle cx="${rx}" cy="${ry}" r="${rr}" fill="none" stroke="${C.green}" stroke-width="8" stroke-linecap="round" stroke-dasharray="${n1(circ * (1 - rk.pct / 100))} ${n1(circ)}" transform="rotate(-90 ${rx} ${ry})"/>`;
+  left += mono(rx, ry + 10, rk ? rk.grade : '—', { size: 28, fill: rk ? C.text : C.muted, weight: 800, anchor: 'middle' });
+  left += label(rx, ry + rr + 30, 'RANK', { anchor: 'middle' });
+  if (rk) left += mono(rx, ry + rr + 48, `top ${Math.max(1, Math.round(rk.pct))}%`, { size: 12, fill: C.muted, anchor: 'middle' });
   o += fade(t0 + 0.3, left);
 
   // languages: one stacked bar plus a legend that names every segment
@@ -391,6 +396,16 @@ function stats(s) {
   }
   o += fade(t0 + 0.4, right);
   return svg(W, H, 'GitHub stats: contributions, current and longest streak, stars, commits, pull requests, issues and most used languages', o);
+}
+
+// Overall rank from commits, pull requests, issues, reviews, stars and followers. Each
+// input is squashed to 0..1 against a typical value and weighted; lower percentile = better.
+function rank(s) {
+  const e = (x) => 1 - 2 ** -x, l = (x) => x / (1 + x);
+  const score = (2 * e(s.commits / 250) + 3 * e(s.prs / 50) + e(s.issues / 25) + e((s.reviews ?? 0) / 2) + 4 * l(s.stars / 50) + l(s.followers / 10)) / 12;
+  const pct = (1 - score) * 100;
+  const steps = [1, 12.5, 25, 37.5, 50, 62.5, 75, 87.5, 100], grades = ['S', 'A+', 'A', 'A-', 'B+', 'B', 'B-', 'C+', 'C'];
+  return { grade: grades[steps.findIndex((t) => pct <= t)], pct };
 }
 
 const TIERS = ['—', 'C', 'B', 'A', 'S', 'SS'];
@@ -463,15 +478,18 @@ function quote() {
 }
 
 // One-line terminal strip used as a section divider.
-function line(cmd, comment) {
+// `comment` shows on the right; without one an arrow points at whatever sits beside the strip.
+function line(cmd, comment, w = W) {
   const H = 52;
-  let o = `<rect x=".5" y=".5" width="${W - 1}" height="${H - 1}" rx="10" fill="${C.bg}" stroke="${C.border}"/>`;
+  let o = `<rect x=".5" y=".5" width="${w - 1}" height="${H - 1}" rx="10" fill="${C.bg}" stroke="${C.border}"/>`;
   const [pr, cx0] = prompt(22, 32);
   const [typedCmd, t1] = typed(cx0, 32, cmd, 0.4);
   o += pr + typedCmd;
   o += `<rect class="cur" x="${n1(cx0 + (cmd.length + 1) * SIZE * CW)}" y="18" width="9" height="17" fill="${C.cyan}"/>`;
-  o += fade(t1 + 0.2, mono(W - 22, 32, `# ${comment}`, { size: 13.5, fill: C.muted, anchor: 'end' }));
-  return svg(W, H, `${cmd} — ${comment}`, o);
+  o += fade(t1 + 0.2, comment
+    ? mono(w - 22, 32, `# ${comment}`, { size: 13.5, fill: C.muted, anchor: 'end' })
+    : `<path d="M${w - 52} 26h24m-8-8l8 8-8 8" fill="none" stroke="${C.green}" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>`);
+  return svg(w, H, comment ? `${cmd} — ${comment}` : cmd, o);
 }
 
 const ICONS = {
@@ -500,6 +518,19 @@ function button(key, title, sub) {
   return svg(w, h, `${title}: ${sub}`, o);
 }
 
+// Half-width link button for the two places named in the header.
+function work(kicker, title, letter, color) {
+  const w = 412, h = 70, cy = 32;
+  let o = `<rect x=".5" y="5.5" width="${w - 1}" height="${h - 6}" rx="12" fill="#05060c" stroke="${C.border}"/>`;
+  o += `<rect x=".5" y=".5" width="${w - 1}" height="${h - 7}" rx="12" fill="${C.bar}" stroke="${C.border}"/>`;
+  o += `<rect x="12" y="${cy - 22}" width="44" height="44" rx="11" fill="${color}"/>`;
+  o += mono(34, cy + 8, letter, { size: 24, fill: C.bg, weight: 800, anchor: 'middle' });
+  o += label(72, cy - 6, kicker);
+  o += mono(72, cy + 16, title, { size: 16, weight: 700 });
+  o += `<path d="M${w - 36} ${cy + 5}l10-10m-8 0h8v8" fill="none" stroke="${C.cyan}" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>`;
+  return svg(w, h, `${kicker}: ${title}`, o);
+}
+
 async function fetchStats(token) {
   const query = `query($login:String!){user(login:$login){
     followers{totalCount}
@@ -509,7 +540,7 @@ async function fetchStats(token) {
     repositories(ownerAffiliations:OWNER,isFork:false,privacy:PUBLIC,first:100){
       totalCount nodes{stargazerCount languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}
     contributionsCollection{
-      totalCommitContributions restrictedContributionsCount
+      totalCommitContributions restrictedContributionsCount totalPullRequestReviewContributions
       commitContributionsByRepository(maxRepositories:25){repository{nameWithOwner isPrivate} contributions{totalCount}}
       contributionCalendar{totalContributions weeks{contributionDays{contributionCount}}}}}}`;
   const res = await fetch('https://api.github.com/graphql', {
@@ -544,6 +575,7 @@ async function fetchStats(token) {
     issues: u.issues.totalCount,
     contributedTo: u.repositoriesContributedTo.totalCount,
     commits: cc.totalCommitContributions + cc.restrictedContributionsCount,
+    reviews: cc.totalPullRequestReviewContributions,
     contributions: cal.totalContributions,
     langs,
     days,
@@ -574,7 +606,7 @@ function sampleStats() {
   }));
   days[40][3] = 43; // one outlier day, as real calendars have
   return {
-    repos: 42, stars: 128, followers: 96, prs: 64, issues: 23, contributedTo: 17, commits: 1102, contributions: 1284, days, ...streaks(days.flat()),
+    repos: 42, stars: 128, followers: 96, prs: 64, issues: 23, contributedTo: 17, commits: 1102, reviews: 12, contributions: 1284, days, ...streaks(days.flat()),
     langs: [
       { name: 'TypeScript', color: '#3178c6', pct: 38.2 }, { name: 'JavaScript', color: '#f1e05a', pct: 24.9 },
       { name: 'C#', color: '#178600', pct: 15.4 }, { name: 'Java', color: '#b07219', pct: 11.1 },
@@ -601,6 +633,9 @@ const live = { 'city.svg': city, 'stats.svg': stats, 'trophies.svg': trophies, '
 for (const [file, draw] of Object.entries(live)) if (data || !existsSync(join(out, file))) files[file] = draw(data);
 files['line-contact.svg'] = line('./contact --pick-one', 'every card below is a link');
 files['line-star.svg'] = line('git star --if-you-liked-it', 'thanks for visiting');
+files['work-keepvio.svg'] = work('BUILDING', 'Keepvio', 'K', C.cyan);
+files['work-liyansh.svg'] = work('WORKING AT', 'Liyansh Solution Pvt. Ltd.', 'L', C.magenta);
+files['line-views.svg'] = line('wc -l visitors.log', '', 540);
 for (const [file, [title, sub]] of Object.entries(PROFILE.links)) files[`key-${file}.svg`] = button(file, title, sub);
 for (const [file, content] of Object.entries(files)) writeFileSync(join(out, file), content);
 console.log(`Wrote ${Object.keys(files).length} files to ${out}${data ? '' : ' (no token: live cards left as-is or empty)'}`);
