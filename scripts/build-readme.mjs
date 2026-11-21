@@ -6,7 +6,7 @@
 // Live data: when GITHUB_TOKEN is set (the GitHub Actions workflow sets it) the stats, city,
 // trophies and repos are filled from the GitHub API. Without a token they stay empty, and
 // files that already hold real numbers are never overwritten.
-import { existsSync, mkdirSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -266,29 +266,29 @@ function about() {
   return svg(W, H, `About: ${PROFILE.about.join('. ')}`, win(H, '~/about.md') + o);
 }
 
+// Skills as colour-coded item slots, grouped by area (the v6 "skill inventory" layout).
 function stack() {
-  const cw = SIZE * CW, lh = 26, labelCols = 11, maxCols = Math.floor((W - PAD * 2) / cw) - labelCols;
-  const colors = [C.cyan, C.magenta, C.yellow, C.green, C.purple];
-  const rows = [];
-  PROFILE.stack.forEach(([cat, items], gi) => {
-    let ln = [], len = 0, first = true;
-    const flush = () => { rows.push({ cat: first ? cat : null, color: colors[gi % colors.length], items: ln, gap: first && rows.length ? 10 : 0 }); first = false; ln = []; len = 0; };
-    for (const item of items) {
-      if (len + item.length > maxCols && ln.length) flush();
-      ln.push(item); len += item.length + 2;
-    }
-    flush();
-  });
+  const size = 14, chipH = 32, gap = 8, xMax = W - PAD;
+  const colors = [C.green, C.cyan, C.yellow, C.purple, C.magenta];
   const [head, t0] = shell('ls ~/stack/*');
-  let o = head, y = 86;
-  rows.forEach((r, i) => {
-    y += lh + r.gap;
-    let row = r.cat ? mono(PAD, y, `${r.cat}/`, { fill: r.color, weight: 700 }) : '';
-    let col = labelCols;
-    for (const item of r.items) { row += mono(n1(PAD + col * cw), y, item); col += item.length + 2; }
-    o += fade(t0 + i * 0.08, row);
+  let o = head, y = 86, n = 0;
+  PROFILE.stack.forEach(([group, items], gi) => {
+    const color = colors[gi % colors.length];
+    y += 26;
+    o += `<rect x="${PAD}" y="${y - 11}" width="11" height="11" fill="${color}"/>`;
+    o += mono(PAD + 20, y, group.replace('_', ' / ').toUpperCase(), { size: 12.5, fill: color, weight: 700, ls: 2 });
+    o += mono(W - PAD, y, `x${items.length}`, { size: 12, fill: C.muted, anchor: 'end' });
+    y += 12;
+    let x = PAD;
+    for (const item of items) {
+      const w = tw(item, size) + 28;
+      if (x + w > xMax) { x = PAD; y += chipH + gap; }
+      o += fade(t0 + n++ * 0.02, `<rect x="${n1(x)}" y="${y}" width="${n1(w)}" height="${chipH}" rx="3" fill="${C.tile}" stroke="${C.border}"/><rect x="${n1(x)}" y="${y}" width="4" height="${chipH}" fill="${color}"/>${mono(n1(x + 16), y + 21, item, { size })}`);
+      x += w + gap;
+    }
+    y += chipH + 12;
   });
-  const H = y + 30;
+  const H = y + 12;
   return svg(W, H, PROFILE.stack.map(([c, items]) => `${c}: ${items.join(', ')}`).join('. '), win(H, '~/stack') + o);
 }
 
@@ -397,25 +397,30 @@ const TIERS = ['—', 'C', 'B', 'A', 'S', 'SS'];
 const TIER_COLORS = [C.muted, C.purple, C.cyan, C.green, C.orange, C.yellow];
 const tier = (v, steps) => steps.filter((t) => v >= t).length;
 
+// Achievements as medals (the v6 layout): ribbon, ringed disc with the grade, name and count.
 function trophies(s) {
-  const H = 286, gap = 10, w = (W - PAD * 2 - gap * 5) / 6, y = 98, h = 158;
+  const H = 296, gap = 10, w = (W - PAD * 2 - gap * 5) / 6, y = 98, h = 166;
   const [head, t0] = shell('ls ~/trophies');
   let o = win(H, '~/trophies') + head;
   const items = [
     ['Stars', s?.stars, [1, 10, 50, 200, 1000]], ['Commits', s?.commits, [1, 100, 500, 1000, 3000]], ['Followers', s?.followers, [1, 10, 50, 200, 1000]],
     ['Repos', s?.repos, [1, 10, 25, 50, 100]], ['Pull reqs', s?.prs, [1, 10, 50, 200, 500]], ['Issues', s?.issues, [1, 10, 50, 200, 500]],
   ];
+  let unlocked = 0;
   items.forEach(([name, value, steps], i) => {
     const x = PAD + i * (w + gap), cx = x + w / 2, lv = s ? tier(value, steps) : 0, color = TIER_COLORS[lv];
+    if (lv) unlocked++;
     let t = tile(x, y, w, h);
-    // trophy cup
-    t += `<path d="M${n1(cx - 20)} ${y + 22}h40v14a20 20 0 0 1-40 0zM${n1(cx - 20)} ${y + 27}h-9a12 12 0 0 0 12 14M${n1(cx + 20)} ${y + 27}h9a12 12 0 0 1-12 14M${n1(cx - 4)} ${y + 55}h8v10h-8zM${n1(cx - 14)} ${y + 65}h28v7h-28z" fill="${color}" fill-opacity=".16" stroke="${color}" stroke-width="2" stroke-linejoin="round"/>`;
-    t += mono(n1(cx), y + 46, TIERS[lv], { size: lv === 5 ? 14 : 17, fill: color, weight: 700, anchor: 'middle' });
-    t += mono(n1(cx), y + 104, name, { size: 14, weight: 600, anchor: 'middle' });
-    t += mono(n1(cx), y + 130, s ? num(value) : '—', { size: 16, fill: s ? C.text : C.muted, weight: 700, anchor: 'middle' });
+    t += `<path d="M${n1(cx - 15)} ${y + 14}h12l5 26h-12zM${n1(cx + 15)} ${y + 14}h-12l-5 26h12z" fill="${color}" fill-opacity=".35"/>`;
+    t += `<circle cx="${n1(cx)}" cy="${y + 62}" r="27" fill="${C.bg}" stroke="${color}" stroke-width="3"/>`;
+    t += `<circle cx="${n1(cx)}" cy="${y + 62}" r="20" fill="${color}" fill-opacity=".16" stroke="${color}" stroke-opacity=".6" stroke-dasharray="2 3"/>`;
+    t += mono(n1(cx), y + 68.5, TIERS[lv], { size: lv === 5 ? 16 : 19, fill: color, weight: 800, anchor: 'middle' });
+    t += mono(n1(cx), y + 118, name, { size: 14, weight: 600, anchor: 'middle' });
+    t += mono(n1(cx), y + 144, s ? num(value) : '—', { size: 16, fill: s ? C.text : C.muted, weight: 700, anchor: 'middle' });
     o += fade(t0 + i * 0.08, t);
   });
-  return svg(W, H, `Trophies: ${items.map(([n]) => n).join(', ')}`, o);
+  o += mono(W - PAD, 74, s ? `${unlocked} of ${items.length} unlocked` : 'locked until first sync', { size: 13, fill: C.muted, anchor: 'end' });
+  return svg(W, H, `Achievements: ${items.map(([n]) => n).join(', ')}`, o);
 }
 
 function repos(s) {
@@ -580,9 +585,13 @@ function sampleStats() {
   };
 }
 
-const sample = process.argv.includes('--sample');
-const out = process.env.README_OUT ?? join(dirname(fileURLToPath(import.meta.url)), '..', 'assets');
-if (sample && !process.env.README_OUT) throw new Error('--sample needs README_OUT so sample numbers never land in assets/');
+// --preview: build everything with sample numbers into preview/ and write preview/index.html,
+// a local page that lays the README out the way GitHub does. Never upload preview/.
+const root = join(dirname(fileURLToPath(import.meta.url)), '..');
+const preview = process.argv.includes('--preview');
+const sample = preview || process.argv.includes('--sample');
+const out = preview ? join(root, 'preview', 'assets') : process.env.README_OUT ?? join(root, 'assets');
+if (sample && !preview && !process.env.README_OUT) throw new Error('--sample needs README_OUT so sample numbers never land in assets/');
 const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
 const data = sample ? sampleStats() : token ? await fetchStats(token) : null;
 
@@ -595,3 +604,19 @@ files['line-star.svg'] = line('git star --if-you-liked-it', 'thanks for visiting
 for (const [file, [title, sub]] of Object.entries(PROFILE.links)) files[`key-${file}.svg`] = button(file, title, sub);
 for (const [file, content] of Object.entries(files)) writeFileSync(join(out, file), content);
 console.log(`Wrote ${Object.keys(files).length} files to ${out}${data ? '' : ' (no token: live cards left as-is or empty)'}`);
+
+if (preview) {
+  const blocks = readFileSync(join(root, 'README.md'), 'utf8').replace(/\r\n/g, '\n').replace(/<!--[\s\S]*?-->/g, '')
+    .split(/\n{2,}/).map((b) => b.trim()).filter((b) => b && !b.includes('komarev.com'))
+    .map((b) => (/^<\/?div/.test(b) ? b : `<p>${b}</p>`)).join('\n');
+  const page = `<!doctype html><meta charset="utf-8"><title>README preview (sample data)</title>
+<style>body{margin:0;background:#0d1117;color:#e6edf3;font:16px/1.5 -apple-system,Segoe UI,Helvetica,Arial,sans-serif}
+.note{background:#3d2f00;color:#ffd166;padding:10px 16px;text-align:center;font-size:14px}
+main{max-width:846px;margin:24px auto;padding:24px;border:1px solid #30363d;border-radius:6px}
+p{margin:0 0 16px}img{max-width:100%;vertical-align:middle}</style>
+<div class="note">Local preview with SAMPLE numbers — not your real GitHub data. <span id="rm"></span></div>
+<main>${blocks}</main>
+<script>if (matchMedia('(prefers-reduced-motion: reduce)').matches) document.getElementById('rm').textContent = 'Animations are OFF on this device (Windows: Settings > Accessibility > Visual effects > Animation effects), so the typing and quote rotation are frozen.';</script>`;
+  writeFileSync(join(root, 'preview', 'index.html'), page);
+  console.log(`Open ${join(root, 'preview', 'index.html')} in a browser`);
+}
