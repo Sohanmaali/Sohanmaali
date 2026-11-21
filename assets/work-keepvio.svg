@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="70" viewBox="0 0 412 70" role="img" aria-label="BUILDING: Keepvio">
+<title>BUILDING: Keepvio</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.f{animation:f .45s ease-out both}
+.on{animation:on .01s steps(1) both}
+.px{animation:px .5s ease-out both}
+.cur{animation:blink 1s steps(1) infinite}
+.tw{animation:tw 3.2s ease-in-out infinite}
+.grow{transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.8,.2,1) both}
+.wide{transform-box:fill-box;transform-origin:left;animation:wide .7s cubic-bezier(.2,.8,.2,1) both}
+@keyframes f{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
+@keyframes on{from{opacity:0}to{opacity:1}}
+@keyframes px{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:none}}
+@keyframes blink{50%{opacity:0}}
+@keyframes tw{50%{opacity:.15}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes wide{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y="5.5" width="411" height="64" rx="12" fill="#05060c" stroke="#262a3d"/><rect x=".5" y=".5" width="411" height="63" rx="12" fill="#151827" stroke="#262a3d"/><rect x="12" y="10" width="44" height="44" rx="11" fill="#5ee7ff"/><text x="34" y="40" font-size="24" fill="#0b0d17" textLength="14.4" lengthAdjust="spacing" font-weight="800" text-anchor="middle">K</text><text x="72" y="26" font-size="11.5" fill="#7c849b" textLength="64.8" lengthAdjust="spacing" font-weight="600">BUILDING</text><text x="72" y="48" font-size="16" fill="#d8dee9" textLength="67.2" lengthAdjust="spacing" font-weight="700">Keepvio</text><path d="M376 37l10-10m-8 0h8v8" fill="none" stroke="#5ee7ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
