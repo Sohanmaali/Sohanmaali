@@ -1,12 +1,14 @@
 <!-- The SVGs are generated: edit scripts/build-readme.mjs, then run `node scripts/build-readme.mjs`. Stats, city, trophies, repos and the daily quote are refreshed by .github/workflows/update-readme.yml -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanmaali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<p align="center"><a href="#-"><img src="assets/line-views.svg" width="60%" align="middle" alt="wc -l visitors.log — profile views:"></a>&nbsp;<a href="#-"><img src="https://komarev.com/ghpvc/?username=sohanmaali&label=PROFILE+VIEWS&color=7c5cff&style=for-the-badge" width="30%" align="middle" alt="Profile views counter"></a></p>
 
 <div align="center">
 
-<a href="#-"><img src="assets/hero.svg" width="100%" alt="Terminal running neofetch for Sohan Maali — Role: Full Stack Developer. Work: Liyansh Solution Pvt. Ltd. Building: Keepvio. Studying: MCA at UIT RGPV, Bhopal. Learning: AI/ML and advanced NestJS. Ask me: Java, MERN, .NET. Motto: self learner, always learning new things. Status: open to collaborate."></a>
+<a href="#-"><img src="assets/hero.svg" width="100%" alt="Hi, I'm Sohan Maali. Terminal running neofetch — Role: .NET Full Stack Developer. Working: Liyansh Solution Pvt. Ltd. Building: Keepvio. Education: MCA from RGPV, Bhopal. Learning: AI/ML and system design. Ask me: Java, MERN, .NET. Motto: self learner, always learning new things. Status: open to collaborate."></a>
 
-<a href="#-"><img src="assets/about.svg" width="100%" alt="About me — Full Stack Developer specializing in ReactJS, NextJS, NestJS, Dotnet and MongoDB/MySQL. Building scalable applications and interactive UIs with Core UI, Tailwind CSS and Redux. Learning advanced NestJS, database optimization and AI/ML. Working on Keepvio. Pursuing a Master of Computer Application at UIT RGPV Bhopal. Working at Liyansh Solution Private Limited. Looking to collaborate. Projects at sohanmaali.com. Ask me about Java, MERN and Dot Net. Reach me at sohanmaali4@gmail.com."></a>
+<a href="https://www.keepvio.com/"><img src="assets/work-keepvio.svg" width="49%" alt="Building: Keepvio"></a> <a href="https://liyanshsolution.com/"><img src="assets/work-liyansh.svg" width="49%" alt="Working at: Liyansh Solution Pvt. Ltd."></a>
+
+<a href="#-"><img src="assets/about.svg" width="100%" alt="About me — Full Stack Developer specializing in ReactJS, NextJS, NestJS, Dotnet and MongoDB/MySQL. Passionate about building scalable applications and interactive UIs with Core UI, Tailwind CSS and Redux. Interested in knowing new things. Fun fact: I think I am so funny."></a>
 
 <a href="#-"><img src="assets/stack.svg" width="100%" alt="Tech stack — Backend: Node.js, Express, TypeScript, NestJS, .NET Core, JWT, Java, Hibernate, Spring, Spring Boot, Microservices. Frontend: JavaScript, React, Next.js, React Router, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery, Core UI. Database: MongoDB, MySQL, Oracle, PostgreSQL. AI/ML: Python, NumPy, Pandas, TensorFlow. Tools: VS Code, NetBeans, Eclipse, IntelliJ IDEA, Spring Tool Suite 4, Swagger, Git, GitHub, Figma, Canva, Postman, Jira, Adobe Photoshop."></a>
 
