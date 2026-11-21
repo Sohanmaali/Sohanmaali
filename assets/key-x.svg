@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="70" viewBox="0 0 840 70" role="img" aria-label="X / Twitter: @sohanmaali7">
+<title>X / Twitter: @sohanmaali7</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.f{animation:f .45s ease-out both}
+.on{animation:on .01s steps(1) both}
+.px{animation:px .5s ease-out both}
+.cur{animation:blink 1s steps(1) infinite}
+.tw{animation:tw 3.2s ease-in-out infinite}
+.grow{transform-box:fill-box;transform-origin:bottom;animation:grow .7s cubic-bezier(.2,.8,.2,1) both}
+.wide{transform-box:fill-box;transform-origin:left;animation:wide .7s cubic-bezier(.2,.8,.2,1) both}
+@keyframes f{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
+@keyframes on{from{opacity:0}to{opacity:1}}
+@keyframes px{from{opacity:0;transform:translateY(-8px)}to{opacity:1;transform:none}}
+@keyframes blink{50%{opacity:0}}
+@keyframes tw{50%{opacity:.15}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes wide{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><linearGradient id="ig" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#f9a03f"/><stop offset=".5" stop-color="#dd2a7b"/><stop offset="1" stop-color="#8134af"/></linearGradient></defs><rect x=".5" y="5.5" width="839" height="64" rx="12" fill="#05060c" stroke="#262a3d"/><rect x=".5" y=".5" width="839" height="63" rx="12" fill="#151827" stroke="#262a3d"/><rect x="12" y="10" width="44" height="44" rx="11" fill="#000000" stroke="#3a4056"/><g fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M26 24l16 16M42 24l-16 16" stroke-width="2.8" /></g><text x="74" y="38" font-size="17" fill="#d8dee9" textLength="112.2" lengthAdjust="spacing" font-weight="700">X / Twitter</text><text x="784" y="37.5" font-size="14.5" fill="#7c849b" textLength="104.4" lengthAdjust="spacing" text-anchor="end">@sohanmaali7</text><path d="M804 37l10-10m-8 0h8v8" fill="none" stroke="#5ee7ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
