@@ -81,11 +81,11 @@ const C = {
 // Index 0 is an empty day. Change CITY_COLOR to switch palette.
 const CITY_COLOR = process.env.CITY_COLOR ?? 'green';
 const RAMPS = {
-  green: ['#1a1e30', '#0e4429', '#006d32', '#26a641', '#56f07a'],
-  cyan: ['#1a1e30', '#1f5263', '#2b8aa1', '#41bfd8', '#7df0ff'],
-  pink: ['#1a1e30', '#5c1f47', '#9c2f73', '#e0489f', '#ff8fd0'],
-  orange: ['#1a1e30', '#5a3210', '#9a5514', '#e0861f', '#ffc266'],
-  purple: ['#1a1e30', '#35256b', '#5a3fb0', '#8b68ee', '#c4adff'],
+  green: ['#1a1e30', '#167a3a', '#22a447', '#3ccf62', '#7dffa0'],
+  cyan: ['#1a1e30', '#1f7f96', '#2ba6c0', '#45cfe8', '#9af6ff'],
+  pink: ['#1a1e30', '#a02e74', '#cf3f93', '#f25bb0', '#ffa3da'],
+  orange: ['#1a1e30', '#a85c12', '#d47a18', '#f59a2c', '#ffd08a'],
+  purple: ['#1a1e30', '#5a3fb0', '#7655d8', '#9577f5', '#cdb9ff'],
 };
 const RAMP = RAMPS[CITY_COLOR] ?? RAMPS.green;
 
@@ -302,13 +302,18 @@ function city(s) {
 
   const days = s ? s.days.slice(-WEEKS) : Array.from({ length: WEEKS }, () => Array(7).fill(0));
   const peak = Math.max(...days.flat(), 1);
+  // Scale against the 90th percentile of active days, on a square-root curve, so one
+  // unusually busy day does not flatten every other tower into the darkest shade.
+  const active = days.flat().filter((v) => v > 0).sort((a, b) => a - b);
+  const cap = active.length ? active[Math.floor((active.length - 1) * 0.9)] : 1;
+  const scale = (v) => Math.sqrt(v / cap);
   const cells = [];
   days.forEach((week, w) => week.forEach((v, dd) => cells.push({ w, d: dd, v })));
   cells.sort((a, b) => a.w + a.d - (b.w + b.d)); // back to front
   for (const { w, d, v } of cells) {
     const x = ox + (w - d) * SX, y = oy + (w + d) * SY;
-    const level = v ? Math.min(4, Math.ceil((v / peak) * 4)) : 0;
-    const h = v ? 8 + (v / peak) * 74 : 3, top = RAMP[level], t = y - h;
+    const level = v ? Math.min(4, Math.ceil(scale(v) * 4)) : 0;
+    const h = v ? 12 + Math.min(scale(v), 1.25) * 58 : 3, top = RAMP[level], t = y - h;
     o += `<g class="grow" style="animation-delay:${(0.2 + (w + d) * 0.03).toFixed(2)}s">`;
     o += `<path d="M${x - hw} ${n1(t + hh)}L${x} ${n1(t + 2 * hh)}V${y + 2 * hh}L${x - hw} ${y + hh}Z" fill="${shade(top, 0.72)}"/>`;
     o += `<path d="M${x} ${n1(t + 2 * hh)}L${x + hw} ${n1(t + hh)}V${y + hh}L${x} ${y + 2 * hh}Z" fill="${shade(top, 0.5)}"/>`;
@@ -548,6 +553,7 @@ function sampleStats() {
     const busy = 0.45 + 0.4 * Math.sin(w / 3.2), weekend = d === 0 || d === 6 ? 0.35 : 1;
     return rnd() < 0.22 ? 0 : Math.round(rnd() * rnd() * 16 * busy * weekend);
   }));
+  days[40][3] = 43; // one outlier day, as real calendars have
   return {
     repos: 42, stars: 128, followers: 96, prs: 64, issues: 23, contributedTo: 17, commits: 1102, contributions: 1284, days, ...streaks(days.flat()),
     langs: [
