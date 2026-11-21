@@ -1,197 +1,77 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanmaali&label=Profile%20views&color=0e75b6&style=flat" alt="sohanmaali" /> </p>
-<h1 align="center" font=Fira>Hi 👋, I'm Sohan Maali <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1>
-<h3 align="center"> <i>i'm self learner !!</i></h3>
+<!-- The SVGs are generated: edit scripts/build-readme.mjs, then run `node scripts/build-readme.mjs`. Stats, city, trophies, repos and the daily quote are refreshed by .github/workflows/update-readme.yml -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohanmaali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+stack+web+developer%2C;+Always+learning+new+things!!" alt="Typing SVG" />
-  </a>
-</p>
-    
+<div align="center">
 
-![](https://showcase-with-sohan.vercel.app)
-# 💫 <i>About Me:</i> 
+<img src="assets/hero.svg" width="100%" alt="Terminal running neofetch for Sohan Maali — Role: Full Stack Developer. Work: Liyansh Solution Pvt. Ltd. Building: Keepvio. Studying: MCA at UIT RGPV, Bhopal. Learning: AI/ML and advanced NestJS. Ask me: Java, MERN, .NET. Motto: self learner, always learning new things. Status: open to collaborate.">
 
-- 🌱 *I’m  <strong> Full Stack Developer <strong> specializing in **ReactJS, NextJS, NestJS, Dotnet and MongoDB/MySQL**. Passionate about building scalable applications and interactive UIs with **Core UI, Tailwind CSS, and Redux**.*
-- 🌱 Learning **Advanced NestJS & Database Optimization**
+<br><br>
 
-- 🔭 *I’m currently working on [Keepvio](https://www.keepvio.com/)*
+<img src="assets/about.svg" width="100%" alt="About me — the full list is in the plain-text version at the bottom of this page.">
 
-- 🏫 *I'm currently pursuing my Master's of Computer Application at University Institute of Technology RGPV Bhopal.* <br>
+<br><br>
 
-- 🤝 *I’m currently learning **AI/ML***
+<img src="assets/stack.svg" width="100%" alt="Tech stack — Backend: Node.js, Express, TypeScript, NestJS, .NET Core, JWT, Java, Hibernate, Spring, Spring Boot, Microservices. Frontend: JavaScript, React, Next.js, React Router, Redux, HTML5, CSS3, Tailwind CSS, Bootstrap, jQuery, Core UI. Database: MongoDB, MySQL, Oracle, PostgreSQL. AI/ML: Python, NumPy, Pandas, TensorFlow. Tools: VS Code, NetBeans, Eclipse, IntelliJ IDEA, Spring Tool Suite 4, Swagger, Git, GitHub, Figma, Canva, Postman, Jira, Adobe Photoshop.">
 
-- 🤝 *I’m currently working in **[LIYANSH SOLUTION PRIVATE LIMITED](https://liyanshsolution.com/)***
+<br><br>
 
-- 👀 *I’m interested in ...Know New things*
+<img src="assets/city.svg" width="100%" alt="Isometric city built from the last 26 weeks of GitHub contributions, with totals for contributions, public repos, stars and followers.">
 
-- 👯 *I’m looking to collaborater*
+<br><br>
 
-<!--- 🤝 I’m looking for help with [kdsjs](kjsd) -->
+<img src="assets/stats.svg" width="100%" alt="GitHub stats: total contributions, current streak, longest streak, stars, commits, pull requests, issues, repositories contributed to, and most used languages.">
 
-- 👨‍💻 All of my projects are available at [Portfolio link](https://sohanmaali.com)
+<br><br>
 
-<!-- - 📝 I regularly write articles on [blog link](blog link) -->
+<img src="assets/trophies.svg" width="100%" alt="GitHub trophies for stars, commits, followers, repos, pull requests and issues.">
 
-- 💬 *Ask me about **java & Mern & Dot Net***
+<br><br>
 
-- 📫 *How to reach me **sohanmaali4@gmail.com***
+<img src="assets/repos.svg" width="100%" alt="Top contributed repositories in the last 12 months.">
 
- - 📄 Know about my experiences [Resume](https://github.com/Sohanmaali/showcase-with-sohan/blob/main/public/assets/file/Sohan_Maali_Resume.pdf) 
+<br><br>
 
-- ⚡ *Fun fact **I think I am so funny 😂***
+<img src="assets/quote.svg" width="100%" alt="Dev quote of the day.">
 
-<p align="center"> <i>⭐ **If you like my work, consider giving a star to my repositories!** ⭐</i></p>
+<br><br>
 
+<img src="assets/line-contact.svg" width="100%" alt="./contact --pick-one — every card below is a link">
 
+<br><br>
 
-## 🌐 <i>Socials:</i>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan-maali1/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/sohan_maali.1)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sohanmaali7) 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300A651.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sohanmaali1)
+<a href="https://sohanmaali.com"><img src="assets/key-portfolio.svg" width="100%" alt="Portfolio"></a><br>
+<a href="https://linkedin.com/in/sohan-maali1/"><img src="assets/key-linkedin.svg" width="100%" alt="LinkedIn"></a><br>
+<a href="https://instagram.com/sohan_maali.1"><img src="assets/key-instagram.svg" width="100%" alt="Instagram"></a><br>
+<a href="https://twitter.com/sohanmaali7"><img src="assets/key-x.svg" width="100%" alt="X / Twitter"></a><br>
+<a href="https://auth.geeksforgeeks.org/user/sohanmaali1"><img src="assets/key-gfg.svg" width="100%" alt="GeeksforGeeks"></a><br>
+<a href="mailto:sohanmaali4@gmail.com"><img src="assets/key-email.svg" width="100%" alt="Email"></a><br>
+<a href="https://github.com/Sohanmaali/showcase-with-sohan/blob/main/public/assets/file/Sohan_Maali_Resume.pdf"><img src="assets/key-resume.svg" width="100%" alt="Resume"></a><br>
 
+<br><br>
 
-# 💻 <i>Tech Stack:</i>
+<a href="https://github.com/Sohanmaali?tab=repositories"><img src="assets/line-star.svg" width="100%" alt="git star --if-you-liked-it — if you like my work, consider giving a star to my repositories"></a>
 
-### 🌐 <i>Backend:</i>
-[![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/en)
-[![Express](https://img.shields.io/badge/express-%2370D7F4.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) 
-![DotNet](https://img.shields.io/badge/.NET-Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![hibernate](https://img.shields.io/badge/hibernate-%C71A36.svg?style=flat&logo=hibernate&logoColor=white)](https://hibernate.org/)
-[![Spring](https://img.shields.io/badge/spring-%236DB33A.svg?style=flat&logo=spring&logoColor=white)](https://spring.io/)
-[![Spring Boot](https://img.shields.io/badge/spring%20boot-%23363636.svg?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Microservices](https://img.shields.io/badge/Microservices-%23316192?style=flat)](https://en.wikipedia.org/wiki/Microservices)
-
-
-### 🌐 <i>Front End:</i>
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)]() 
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)]()
-[![Next](https://img.shields.io/badge/next-%2320232a.svg?style=flat&logo=next&logoColor=%2361AAFB)]()
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
-[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) 
-
-
-### 🌐 <i>DataBase:</i>
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/in/database/)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-### 🌐 <i>AI ML:</i>
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-
-
-### 🌐 <i>Tools:</i>
-[![Visual Studio](https://img.shields.io/badge/visual%20studio-%23FF6F00.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/download)
-[![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)](https://netbeans.apache.org/front/main/download/index.htm)
-[![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse-ide&logoColor=white)](https://www.eclipse.)
-[![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
-[![Spring Tool Suite 4](https://img.shields.io/badge/Spring_Tool_Suite_4-6DB33F?style=flat&logo=spring&logoColor=white)](https://spring.io/tools)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) 
-
-
-
-
-[![git](https://img.shields.io/badge/git-%23FF6F00.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GiHub](https://img.shields.io/badge/GiHub-%F9DC3e.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
-
-
-[![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)](https://www.figma.com/files/recents-and-sharing?fuid=1290023165947971338)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)](https://www.canva.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Adobe Photoshop](https://img.shields.io/badge/Adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.ht)
-
-
-
-<!-- ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) 
-
-
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) 
-
-
-
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) 
-
-![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) 
-
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) 
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) 
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) 
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
-
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
-
-![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=flat&logo=proto.io&logoColor=00e5ff) 
-
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
-
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) 
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) 
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=flat&logo=babel&logoColor=black) 
-
-
-
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)  -->
-
-
-# 📊 <i>GitHub Stats:</i>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohanmaali&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=sohanmaali&theme=gotham&hide_border=false) <br>
-<!--![](https://github-readme-streak-stats.herokuapp.com/?user=sohanmaali&theme=gotham&hide_border=false)-->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sohanmaali)](https://git.io/streak-stats)
-
-
-## 🏆 <i>GitHub Trophies</i>
-![](https://github-profile-trophy.vercel.app/?username=Sohanmaali&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 <i>Top Contributed Repo</i>
-<div >
-  <img src="https://github-contributor-stats.vercel.app/api?username=Sohanmaali&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
 </div>
 
+<details>
+<summary>Plain-text version</summary>
+<br>
 
-### ✍️ <i>Dev Quote</i>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+- 🌱 Full Stack Developer specializing in **ReactJS, NextJS, NestJS, Dotnet and MongoDB/MySQL**. Passionate about building scalable applications and interactive UIs with **Core UI, Tailwind CSS, and Redux**
+- 🌱 Learning **Advanced NestJS & Database Optimization**
+- 🔭 Currently working on [Keepvio](https://www.keepvio.com/)
+- 🏫 Pursuing my Master's of Computer Application at University Institute of Technology RGPV Bhopal
+- 🤝 Currently learning **AI/ML**
+- 🤝 Currently working in [LIYANSH SOLUTION PRIVATE LIMITED](https://liyanshsolution.com/)
+- 👀 Interested in knowing new things
+- 👯 Looking to collaborate
+- 👨‍💻 All of my projects are available at [Portfolio link](https://sohanmaali.com)
+- 💬 Ask me about **Java, MERN and Dot Net**
+- 📫 Reach me at **sohanmaali4@gmail.com**
+- 📄 Know about my experiences: [Resume](https://github.com/Sohanmaali/showcase-with-sohan/blob/main/public/assets/file/Sohan_Maali_Resume.pdf)
+- ⚡ Fun fact: **I think I am so funny 😂**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ If you like my work, consider giving a star to my repositories! ⭐
 
-<br clear="both">
-
-<!-- ![Snake animation](https://github.com/Sohanmaali/Sohanmaali/blob/output/github-contribution-grid-snake.svg) -->
-
-
+</details>
