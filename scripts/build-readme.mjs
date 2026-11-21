@@ -13,7 +13,7 @@ import { fileURLToPath } from 'node:url';
 const PROFILE = {
   name: 'Sohan Maali',
   handle: 'Sohanmaali',
-  user: 'sohan',
+  user: 'sohanmaali',
   host: 'github',
   initials: 'SM',
   tagline: 'full stack web developer',
@@ -77,8 +77,17 @@ const C = {
   bg: '#0b0d17', bar: '#151827', panel: '#11142233', tile: '#131627', border: '#262a3d', text: '#d8dee9', muted: '#7c849b',
   cyan: '#5ee7ff', magenta: '#ff6ac1', green: '#5af78e', yellow: '#f3f99d', purple: '#b48cff', orange: '#ff9f43',
 };
-// Contribution ramp: one hue, darker = fewer, brighter = more. Index 0 is an empty day.
-const RAMP = ['#1a1e30', '#1f5263', '#2b8aa1', '#41bfd8', '#7df0ff'];
+// Contribution tower colours: one hue per palette, darker = fewer, brighter = more.
+// Index 0 is an empty day. Change CITY_COLOR to switch palette.
+const CITY_COLOR = process.env.CITY_COLOR ?? 'green';
+const RAMPS = {
+  green: ['#1a1e30', '#0e4429', '#006d32', '#26a641', '#56f07a'],
+  cyan: ['#1a1e30', '#1f5263', '#2b8aa1', '#41bfd8', '#7df0ff'],
+  pink: ['#1a1e30', '#5c1f47', '#9c2f73', '#e0489f', '#ff8fd0'],
+  orange: ['#1a1e30', '#5a3210', '#9a5514', '#e0861f', '#ffc266'],
+  purple: ['#1a1e30', '#35256b', '#5a3fb0', '#8b68ee', '#c4adff'],
+};
+const RAMP = RAMPS[CITY_COLOR] ?? RAMPS.green;
 
 const W = 840;
 const PAD = 30;
@@ -281,7 +290,7 @@ function stack() {
 function city(s) {
   const H = 480, ox = 150, oy = 150, SX = 18, SY = 9, hw = 16, hh = 8;
   let o = win(H, '~/contributions — last 26 weeks');
-  o += `<defs><radialGradient id="glow" cx=".42" cy=".62" r=".6"><stop offset="0" stop-color="${C.cyan}" stop-opacity=".14"/><stop offset=".6" stop-color="${C.purple}" stop-opacity=".05"/><stop offset="1" stop-color="${C.bg}" stop-opacity="0"/></radialGradient></defs>`;
+  o += `<defs><radialGradient id="glow" cx=".42" cy=".62" r=".6"><stop offset="0" stop-color="${RAMP[3]}" stop-opacity=".14"/><stop offset=".6" stop-color="${C.purple}" stop-opacity=".05"/><stop offset="1" stop-color="${C.bg}" stop-opacity="0"/></radialGradient></defs>`;
   o += `<rect x="1" y="41" width="${W - 2}" height="${H - 42}" rx="11" fill="url(#glow)"/>`;
 
   let seed = 7;
