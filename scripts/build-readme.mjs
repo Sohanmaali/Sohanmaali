@@ -61,7 +61,7 @@ const PROFILE = {
     email: ["Email", "sohanmaali4@gmail.com"],
     resume: ["Resume", "view the PDF"],
   },
-  // one is shown per day
+  // shown one after another, a few seconds each; the starting quote changes daily
   quotes: [
     ['Talk is cheap. Show me the code.', 'Linus Torvalds'],
     ['Premature optimization is the root of all evil.', 'Donald Knuth'],
@@ -69,6 +69,12 @@ const PROFILE = {
     ['Programs must be written for people to read, and only incidentally for machines to execute.', 'Harold Abelson'],
     ['Any fool can write code that a computer can understand. Good programmers write code that humans can understand.', 'Martin Fowler'],
     ['Make it work, make it right, make it fast.', 'Kent Beck'],
+    ['Controlling complexity is the essence of computer programming.', 'Brian Kernighan'],
+    ['The best way to predict the future is to invent it.', 'Alan Kay'],
+    ["Code is like humor. When you have to explain it, it's bad.", 'Cory House'],
+    ['Truth can only be found in one place: the code.', 'Robert C. Martin'],
+    ['Walking on water and developing software from a specification are easy if both are frozen.', 'Edward V. Berard'],
+    ['Debugging is twice as hard as writing the code in the first place.', 'Brian Kernighan'],
   ],
 };
 
@@ -432,15 +438,23 @@ function repos(s) {
   return svg(W, H, `Top contributed repositories in the last 12 months${rows.length ? `: ${rows.map((r) => r.name).join(', ')}` : ''}`, o);
 }
 
+// Quotes rotate inside the image itself, so the card changes while you look at it and
+// needs no outside service. The workflow also moves the starting quote on each day.
 function quote() {
-  const day = Math.floor(Date.now() / 86400000), [text, author] = PROFILE.quotes[day % PROFILE.quotes.length];
-  const cols = Math.floor((W - PAD * 2) / (17 * CW)) - 2, lines = wrap(`“${text}”`, cols);
+  const SLOT = 8, all = PROFILE.quotes, n = all.length, day = Math.floor(Date.now() / 86400000);
+  const order = all.map((_, i) => all[(i + day) % n]);
+  const cols = Math.floor((W - PAD * 2) / (17 * CW)) - 2;
+  const wrapped = order.map(([text]) => wrap(`“${text}”`, cols)), rows = Math.max(...wrapped.map((l) => l.length));
   const [head, t0] = shell('fortune');
-  const H = 98 + lines.length * 28 + 54;
-  let body = '';
-  lines.forEach((ln, i) => { body += mono(PAD, 98 + 24 + i * 28, ln, { size: 17, fill: C.yellow, weight: 600 }); });
-  body += mono(W - PAD, 98 + lines.length * 28 + 28, `— ${author}`, { size: 14, fill: C.muted, anchor: 'end' });
-  return svg(W, H, `Dev quote: ${text} — ${author}`, win(H, '~/dev-quote') + head + fade(t0, body));
+  const H = 98 + rows * 28 + 58, f = 100 / n;
+  let body = `<style>.q{animation:q ${n * SLOT}s linear infinite both}@keyframes q{0%{opacity:0;transform:translateY(6px)}${(f * 0.08).toFixed(2)}%,${(f * 0.92).toFixed(2)}%{opacity:1;transform:none}${f.toFixed(2)}%,100%{opacity:0;transform:translateY(-6px)}}@media (prefers-reduced-motion:reduce){.q{display:none}.q.q0{display:inline}}</style>`;
+  order.forEach(([, author], i) => {
+    let g = '';
+    wrapped[i].forEach((ln, j) => { g += mono(PAD, 98 + 24 + j * 28, ln, { size: 17, fill: C.yellow, weight: 600 }); });
+    g += mono(W - PAD, 98 + rows * 28 + 30, `— ${author}`, { size: 14, fill: C.muted, anchor: 'end' });
+    body += `<g class="q q${i}" style="animation-delay:${(t0 + i * SLOT).toFixed(2)}s">${g}</g>`;
+  });
+  return svg(W, H, `Dev quotes: ${order.map(([t, au]) => `${t} — ${au}`).join(' / ')}`, win(H, '~/dev-quote') + head + body);
 }
 
 // One-line terminal strip used as a section divider.
