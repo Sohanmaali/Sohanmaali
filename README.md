@@ -1,7 +1,5 @@
 <!-- The SVGs are generated: edit scripts/build-readme.mjs, then run `node scripts/build-readme.mjs`. Stats, city, trophies, repos and the daily quote are refreshed by .github/workflows/update-readme.yml -->
 
-<p align="center"><a href="#-"><img src="assets/line-views.svg" width="60%" align="middle" alt="wc -l visitors.log — profile views:"></a>&nbsp;<a href="#-"><img src="https://komarev.com/ghpvc/?username=sohanmaali&label=PROFILE+VIEWS&color=7c5cff&style=for-the-badge" width="30%" align="middle" alt="Profile views counter"></a></p>
-
 <div align="center">
 
 <a href="#-"><img src="assets/hero.svg" width="100%" alt="Hi, I'm Sohan Maali. Terminal running neofetch — Role: .NET Full Stack Developer. Working: Liyansh Solution Pvt. Ltd. Building: Keepvio. Education: MCA from RGPV, Bhopal. Learning: AI/ML and system design. Ask me: Java, MERN, .NET. Motto: self learner, always learning new things. Status: open to collaborate."></a>
